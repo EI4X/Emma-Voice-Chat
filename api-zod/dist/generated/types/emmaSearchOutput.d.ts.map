@@ -1,0 +1,1 @@
+{"version":3,"file":"emmaSearchOutput.d.ts","sourceRoot":"","sources":["../../../src/generated/types/emmaSearchOutput.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,kBAAkB,CAAC;AACvD,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,oBAAoB,CAAC;AAE3D,MAAM,WAAW,gBAAgB;IAC/B,OAAO,EAAE,gBAAgB,EAAE,CAAC;IAC5B,KAAK,EAAE,cAAc,EAAE,CAAC;CACzB"}
